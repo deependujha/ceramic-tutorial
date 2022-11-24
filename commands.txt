@@ -1,0 +1,6 @@
+# install the Self.ID npm packages, and a dependent library, to get started.
+npm install @self.id/react @self.id/web key-did-provider-ed25519
+
+# install the ethers and web3modal packages that we will be using to support wallet connections
+npm install ethers web3modal
+
